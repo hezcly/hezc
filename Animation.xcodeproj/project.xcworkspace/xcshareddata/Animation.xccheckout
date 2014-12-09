@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A4D2778F-0346-42C1-8C3A-BE1EFFB666D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Animation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>19CBD328A62B757F71EEBEF5A0F931752AE64D9C</key>
+		<string>https://github.com/hezcly/hezc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Animation.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>19CBD328A62B757F71EEBEF5A0F931752AE64D9C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hezcly/hezc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>19CBD328A62B757F71EEBEF5A0F931752AE64D9C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>19CBD328A62B757F71EEBEF5A0F931752AE64D9C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hezc</string>
+		</dict>
+	</array>
+</dict>
+</plist>
