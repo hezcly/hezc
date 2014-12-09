@@ -29,6 +29,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
+    //练习使用github提交代码。哈哈
     [self initCALayer];
 }
 
